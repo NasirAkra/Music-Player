@@ -73,7 +73,7 @@ A **Music Player** application built with Java, designed to provide seamless aud
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/music-player-java.git
+   git clone https://github.com/NasirAkra/music-player-java.git
    ```
 
 2. **Import Project**:
